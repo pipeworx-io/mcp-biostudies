@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/biostudies",
+  "title": "Biostudies",
+  "description": "EBI BioStudies MCP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/biostudies",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-biostudies",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/biostudies/mcp"
+    }
+  ]
+}
