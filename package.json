@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-biostudies",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "EBI BioStudies MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "biostudies",
     "gatewaySlug": "biostudies",
-    "sourceHash": "v1-fed60d28fb3175841b6231ac7d41165904ff902ffdfdf03672c1026ee229a955",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-c503f14fedacb27f1c91fbbd2633c2b97231cd7bc17d336f4210d4ea590a76b7",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
